@@ -121,4 +121,11 @@ while ($row = $result->fetch_assoc()) {
 
 ```
 
+<li>
+Try not to use <b> $_GET['']</b> method that much because it is actually vulnerable unless you are compelled to.
+</li>
+
+### THERE IS ANOTHER VULNERABLITY WHICH YOU CA USE AND READ IN MY GITHUB REPO. THE LINK IS BELOW
+https://github.com/hounaar/magic_Hash
+
 I hope you have enjoyed it
