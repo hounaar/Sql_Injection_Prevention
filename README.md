@@ -1,4 +1,4 @@
-# SqlInjection_Prevention
+# Sql_Injection_Prevention
 This document is including some ways to prevent SQL Injection in PHP using some methods and tactics.
 
 ## Overview
@@ -23,7 +23,7 @@ PDO Connection VS Mysqli connection
 </li>
 
   ```php
-  $servername = "localhost";
+  	$servername = "localhost";
 	$username = "";
 	$password = "";
 
